@@ -1,0 +1,7 @@
+text {
+    font-size: 17px;
+    fill: black;
+    letter-spacing: -6px;
+    user-select: none;
+    -webkit-user-select: none;
+}
